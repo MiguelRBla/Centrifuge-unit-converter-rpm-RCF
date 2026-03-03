@@ -5,7 +5,7 @@ import math
 
 #variables
 
-k=1.12e5 #constant
+k=1.12e-5 #constant
 g=918 #cm*s^2
 
 

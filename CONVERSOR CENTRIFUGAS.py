@@ -5,7 +5,7 @@ import math #cargamos el modulo matematico
 
 #primero definimos las variables del programa
 
-k=1.12e5 #constante
+k=1.12e-5 #constante
 g=918 #cm*s^2
 
 
